@@ -1,6 +1,8 @@
 # webpack-html-template
-This was made for article of my blog.  
-[Webpackを使用してhtmlの共通部分をテンプレート化](https://chocolat5.com/tips/webpack-html-template/)
+This was made for article of my blog. How to template the common part of html using webpack.
+
+Article Link : [How to template the common part of html using webpack](https://chocolat5.com/tips/webpack-html-template/)（wrote in Japanese）
+
 
 ## Features
 
