@@ -45,6 +45,10 @@ npm start
 
 Open [http://localhost:8080/](http://localhost:8080/) in your browser
 
+## License
+
+MIT License
+
 ## References
 
 HTML Webpack Plugin [https://github.com/jantimon/html-webpack-plugin](https://github.com/jantimon/html-webpack-plugin)  
