@@ -11,7 +11,7 @@
     "build": "webpack --mode production"
   },
   "devDependencies": {
-    "@babel/cli": "^7.7.5",
+    "@babel/cli": "^7.12.1",
     "@babel/core": "^7.7.5",
     "@babel/preset-env": "^7.7.6",
     "babel-eslint": "^10.0.3",
@@ -22,6 +22,6 @@
     "path": "^0.12.7",
     "webpack": "^4.41.2",
     "webpack-cli": "^3.3.10",
-    "webpack-dev-server": "^3.9.0"
+    "webpack-dev-server": "^3.11.0"
   }
 }
